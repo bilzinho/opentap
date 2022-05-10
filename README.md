@@ -1,4 +1,6 @@
 # OpenTAP
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fbilzinho%2Fopentap.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fbilzinho%2Fopentap?ref=badge_shield)
+
 
 OpenTAP is an Open Source project for fast and easy development and execution of automated tests.
 
@@ -93,3 +95,5 @@ We track issues at https://github.com/opentap/opentap/issues. You are welcome to
 ## License
 
 This source code is subject to the terms of the Mozilla Public License, v2.0. See full license in [LICENSE.txt](LICENSE.txt).
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fbilzinho%2Fopentap.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fbilzinho%2Fopentap?ref=badge_large)
